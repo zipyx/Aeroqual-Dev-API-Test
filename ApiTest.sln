@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiTest", "ApiTest\ApiTest.csproj", "{368916A0-E71E-4AA0-ABFC-B8AF2A2087C8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DEB8A8D0-AB5F-4E66-9AA6-EAC31F1C8CFA}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiUnitTest", "ApiUnitTest\ApiUnitTest.csproj", "{521A9454-6B21-44F2-B8CE-2795D68C3CD3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiAWS", "ApiAWS\ApiAWS.csproj", "{B13D1343-34A5-449E-9ED1-A39656C7E6C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiLibrary", "ApiLibrary\ApiLibrary.csproj", "{99174584-18D3-4EEF-8DF5-1C68D74557D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiReactApp", "ApiReactApp\ApiReactApp.csproj", "{3AE38465-3FA9-4B48-985D-5EF2B891D7D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{368916A0-E71E-4AA0-ABFC-B8AF2A2087C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{368916A0-E71E-4AA0-ABFC-B8AF2A2087C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{368916A0-E71E-4AA0-ABFC-B8AF2A2087C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{368916A0-E71E-4AA0-ABFC-B8AF2A2087C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{521A9454-6B21-44F2-B8CE-2795D68C3CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{521A9454-6B21-44F2-B8CE-2795D68C3CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{521A9454-6B21-44F2-B8CE-2795D68C3CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{521A9454-6B21-44F2-B8CE-2795D68C3CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B13D1343-34A5-449E-9ED1-A39656C7E6C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B13D1343-34A5-449E-9ED1-A39656C7E6C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B13D1343-34A5-449E-9ED1-A39656C7E6C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B13D1343-34A5-449E-9ED1-A39656C7E6C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99174584-18D3-4EEF-8DF5-1C68D74557D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99174584-18D3-4EEF-8DF5-1C68D74557D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99174584-18D3-4EEF-8DF5-1C68D74557D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99174584-18D3-4EEF-8DF5-1C68D74557D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AE38465-3FA9-4B48-985D-5EF2B891D7D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE38465-3FA9-4B48-985D-5EF2B891D7D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE38465-3FA9-4B48-985D-5EF2B891D7D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE38465-3FA9-4B48-985D-5EF2B891D7D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A5D5DEC-1406-42C7-AE67-F8D089909739}
+	EndGlobalSection
+EndGlobal
