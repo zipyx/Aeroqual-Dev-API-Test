@@ -1,4 +1,4 @@
-# Aeroqual Cloud Developer test
+# Aeroqual Cloud Developer Test
 
 This test is to create a simple API that serves data from a json file.
 
